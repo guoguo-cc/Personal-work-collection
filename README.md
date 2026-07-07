@@ -28,6 +28,6 @@ WebGL 平台，为玩家提供轻量化的线上娱乐体验。
 
 2.百度网盘：
 
-  链接: https://pan.baidu.com/s/1Raq0IUTWPRQ3O-KErD5cdg?pwd=wcs6 提取码: wcs6
+  链接: https://pan.baidu.com/s/1kwRk9fRMEiOFPzGywo1m2w?pwd=d4a3 提取码: d4a3
 
   <img src="img/demo.png" height="500">
