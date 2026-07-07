@@ -26,4 +26,6 @@ WebGL 平台，为玩家提供轻量化的线上娱乐体验。
 
 1.github 本地该项目 mp4 文件
 
-2.百度网盘：...
+2.百度网盘：
+
+  链接: https://pan.baidu.com/s/1Raq0IUTWPRQ3O-KErD5cdg?pwd=wcs6 提取码: wcs6
